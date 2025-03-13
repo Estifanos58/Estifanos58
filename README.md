@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estifanos58&label=Profile%20views&color=0e75b6&style=flat" alt="estifanos58" /> </p>
 
-- 📫 How to reach me **estifkebe08@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+  - 📫 email e **estifkebe08@gmail.com**
+  - 🔗 LinkedIn  ** www.linkedin.com/in/estifanos-kebede/**
 <p align="left">
 </p>
 
@@ -14,7 +14,8 @@
 
 <div style="display: flex; gap: '10px';">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifanos58&show_icons=true&locale=en&layout=compact" alt="estifanos58" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifanos58" alt="estifanos58" />
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=estifanos58)
+ />
 </div>
 <p></p>
 
