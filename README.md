@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estifanos Kebede</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer based in Ethiopia. With a strong foundation in the MERN (MongoDB, Express.js, React, Node.js) stack, I specialize in building scalable, high-performance web applications. My goal is to craft seamless user experiences through clean, maintainable code and cutting-edge technologies.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer based in Ethiopia. With a strong foundation in the MERN (MongoDB, Express.js, React, Node.js) stack, I specialize in building scalable, high-performance web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estifanos58&label=Profile%20views&color=0e75b6&style=flat" alt="estifanos58" /> </p>
 
@@ -14,7 +14,7 @@
 
 <div style="display: flex; gap: '20px';">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifanos58&show_icons=true&locale=en&layout=compact" alt="estifanos58" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifanos58&" alt="estifanos58" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifanos58" alt="estifanos58" />
 </div>
 <p></p>
 
