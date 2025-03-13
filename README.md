@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estifanos58&label=Profile%20views&color=0e75b6&style=flat" alt="estifanos58" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-  - 📫 email e **estifkebe08@gmail.com**
-  - 🔗 LinkedIn  ** www.linkedin.com/in/estifanos-kebede/**
+  <p> 📫 email estifkebe08@gmail.com </p>
+  <p> 🔗 LinkedIn  www.linkedin.com/in/estifanos-kebede/ </p>
 <p align="left">
 </p>
 
