@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estifanos Kebede</h1>
-<h3 align="center">A passionate Full-Stack Web Developer based in Ethiopia. With a strong foundation in the MERN (MongoDB, Express.js, React, Node.js) stack, I specialize in building scalable, high-performance web applications.</h3>
+<h3 align="center">A passionate Full-Stack Web Developer based in Ethiopia. With a strong foundation in the MERN stack, NextJS and NestJS to build Full Stack Web Sites, I specialize in building scalable, high-performance web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estifanos58&label=Profile%20views&color=0e75b6&style=flat" alt="estifanos58" /> </p>
 
