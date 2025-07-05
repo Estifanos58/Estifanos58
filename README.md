@@ -14,8 +14,7 @@
 
 <div style="display: flex; gap: '10px';">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estifanos58&show_icons=true&locale=en&layout=compact" alt="estifanos58" />
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=estifanos58)
- />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estifanos58" />
 </div>
 <p></p>
 
