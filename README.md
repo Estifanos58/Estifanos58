@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
   <p> 📫 Gmail: estifkebe08@gmail.com </p>
   <p> 💻 Portfolio: https://www.estifanos.tech</p>
-  <p> 🔗 LinkedIn: https://www.linkedin.com/in/estifanos-kebed </p>
+  <p> 🔗 LinkedIn: https://www.linkedin.com/in/estifanos-kebede</p>
 <p align="left">
 </p>
 
